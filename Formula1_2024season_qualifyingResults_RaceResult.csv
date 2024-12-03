@@ -150,7 +150,7 @@ Monaco;23;Alexander Albon;Williams Mercedes;1:11.623;1:11.216;1:10.948;29;9;9;77
 Monaco;10;Pierre Gasly;Alpine Renault;1:11.714;1:10.896;1:11.311;30;10;10;77;+1 lap;1;No;1:15.625
 Monaco;31;Esteban Ocon;Alpine Renault;1:11.887;1:11.285;;20;NC;11;0;DNF;0;No;
 Monaco;27;Nico Hulkenberg;Haas Ferrari;1:11.876;1:11.440;;20;NC;12;0;DNF;0;No;
-Monaco;3;Daniel Ricciardo;RB Honda RBPT;1:11:785;1:11.482;;21;12;13;76;+2 laps;0;No;1:17.172
+Monaco;3;Daniel Ricciardo;RB Honda RBPT;0,058391204;1:11.482;;21;12;13;76;+2 laps;0;No;1:17.172
 Monaco;18;Lance Stroll;Aston Martin Aramco Mercedes;1:11.728;1:11.563;;17;14;14;76;+2 laps;0;No;1:16.710
 Monaco;20;Kevin Magnussen;Haas Ferrari;1:11.832;1:11.725;;18;NC;15;0;DNF;0;No;
 Monaco;14;Fernando Alonso;Aston Martin Aramco Mercedes;1:12.019;;;11;11;16;76;+2 laps;0;No;1:17.939
@@ -285,7 +285,7 @@ Netherlands;63;George Russell;Mercedes;1:11.049;1:10.552;1:10.244;18;7;4;72;+44.
 Netherlands;11;Sergio Perez;Red Bull Racing Honda RBPT;1:11.006;1:10.678;1:10.416;17;6;5;72;+39.542;8;No;1:14.587
 Netherlands;16;Charles Leclerc;Ferrari;1:11.370;1:10.689;1:10.582;24;3;6;72;+25.439;15;No;1:14.585
 Netherlands;14;Fernando Alonso;Aston Martin Aramco Mercedes;1:11.493;1:10.845;1:10.633;16;10;7;71;+1 lap;1;No;1:14.758
-Netherlands;18;Lance Stroll;Aston Martin Aramco Mercedes;1:11:518;1:10.611;1:10.857;19;13;8;71;+1 lap;0;No;1:15.255
+Netherlands;18;Lance Stroll;Aston Martin Aramco Mercedes;0,055300926;1:10.611;1:10.857;19;13;8;71;+1 lap;0;No;1:15.255
 Netherlands;10;Pierre Gasly;Alpine Renault;1:11.718;1:10.815;1:10.977;20;9;9;71;+1 lap;2;No;1:14.855
 Netherlands;55;Carlos Sainz;Ferrari;1:11.327;1:10.914;;18;5;10;72;+32.137;10;No;1:14.117
 Netherlands;44;Lewis Hamilton;Mercedes;1:11.375;1:10.948;;13;8;11;72;+49.599;4;No;1:13.878
@@ -408,15 +408,15 @@ Brazil;81;Oscar Piastri;McLaren Mercedes;1:30.114;1:25.179;1:24.686;28;8;8;69;+4
 Brazil;14;Fernando Alonso;Aston Martin Aramco Mercedes;1:30.207;1:25.035;1:28.998;21;14;9;69;+78.049;0;No;1:22.293
 Brazil;18;Lance Stroll;Aston Martin Aramco Mercedes;1:30.580;1:26.334;;19;NC;10;0;DNS;0;No;
 Brazil;77;Valtteri Bottas;Kick Sauber Ferrari;1:30.633;1:26.472;;21;13;11;69;+63.588;0;No;1:22.877
-Brazil;1;Max Verstappen;Red Bull Racing Honda RBPT;1:28.522;1:27.771;;19;1;17;69;2:06:54.430;26;Yes;1:20.472
-Brazil;11;Sergio Perez;Red Bull Racing Honda RBPT;1:30.035;1:28.158;;18;11;12;69;+51.531;0;No;1:22.143
-Brazil;55;Carlos Sainz;Ferrari;1:30.035;1:28.158;;18;NC;20;38;DNF;0;No;1:24.201
-Brazil;10;Pierre Gasly;Alpine Renault;1:29.420;1:29.614;;21;3;13;69;+22.532;15;No;1:21.645
-Brazil;44;Lewis Hamilton;Mercedes;1:31.150;;;11;10;14;69;+50.753;1;No;1:22.041
-Brazil;50;Oliver Bearman;Haas Ferrari;1:31.229;;;11;12;15;69;+57.085;0;No;1:22.494
-Brazil;43;Franco Colapinto;Williams Mercedes;1:31.270;;;5;NC;16;30;DNF;0;No;1:24.296
-Brazil;27;Nico Hulkenberg;Haas Ferrari;1:31.623;;;12;DQ;18;0;DSQ;0;No;1:23.764
-Brazil;24;Guanyu Zhou;Kick Sauber Ferrari;1:32.263;;;12;15;19;69;+79.649;0;No;1:23.058
+Brazil;1;Max Verstappen;Red Bull Racing Honda RBPT;1:28.522;1:27.771;;19;1;12;69;2:06:54.430;26;Yes;1:20.472
+Brazil;11;Sergio Perez;Red Bull Racing Honda RBPT;1:30.035;1:28.158;;18;11;13;69;+51.531;0;No;1:22.143
+Brazil;55;Carlos Sainz;Ferrari;1:30.035;1:28.158;;18;NC;14;38;DNF;0;No;1:24.201
+Brazil;10;Pierre Gasly;Alpine Renault;1:29.420;1:29.614;;21;3;15;69;+22.532;15;No;1:21.645
+Brazil;44;Lewis Hamilton;Mercedes;1:31.150;;;11;10;16;69;+50.753;1;No;1:22.041
+Brazil;50;Oliver Bearman;Haas Ferrari;1:31.229;;;11;12;17;69;+57.085;0;No;1:22.494
+Brazil;43;Franco Colapinto;Williams Mercedes;1:31.270;;;5;NC;18;30;DNF;0;No;1:24.296
+Brazil;27;Nico Hulkenberg;Haas Ferrari;1:31.623;;;12;DQ;19;0;DSQ;0;No;1:23.764
+Brazil;24;Guanyu Zhou;Kick Sauber Ferrari;1:32.263;;;12;15;20;69;+79.649;0;No;1:23.058
 Las Vegas;63;George Russell;Mercedes;1:33.186;1:32.779;1:32.312;25;1;1;50;1:22:05.969;25;No;1:35.717
 Las Vegas;55;Carlos Sainz;Ferrari;1:33.484;1:32.711;1:32.410;24;3;2;50;+11.906;15;No;1:35.875
 Las Vegas;10;Pierre Gasly;Alpine Renault;1:33.691;1:32.879;1:32.664;25;NC;3;15;DNF;0;No;1:38.314
@@ -430,10 +430,10 @@ Las Vegas;44;Lewis Hamilton;Mercedes;1:33.225;1:32.567;1:48.106;24;2;10;50;+7.31
 Las Vegas;31;Esteban Ocon;Alpine Renault;1:33.968;1:33.221;;18;17;11;49;+1 lap;0;No;1:36.511
 Las Vegas;20;Kevin Magnussen;Haas Ferrari;1:33.991;1:33.297;;12;12;12;50;+69.803;0;No;1:36.557
 Las Vegas;24;Guanyu Zhou;Kick Sauber Ferrari;1:34.079;1:33.566;;17;13;13;50;+74.085;0;No;1:36.324
-Las Vegas;43;Franco Colapinto;Williams Mercedes;1:33.746;1:33.749;;16;14;20;50;+75.172;0;No;1:36.867
-Las Vegas;30;Liam Lawson;RB Honda RBPT;1:34.087;1:34.257;;17;16;14;50;+91.005;0;No;1:36.980
-Las Vegas;11;Sergio Perez;Red Bull Racing Honda RBPT;1:34.155;;;10;10;15;50;+63.114;1;No;1:36.326
-Las Vegas;14;Fernando Alonso;Aston Martin Aramco Mercedes;1:34.258;;;9;11;16;50;+69.195;0;No;1:36.553
-Las Vegas;23;Alexander Albon;Williams Mercedes;1:34.425;;;10;NC;17;25;DNF;0;No;1:38.008
+Las Vegas;43;Franco Colapinto;Williams Mercedes;1:33.746;1:33.749;;16;14;14;50;+75.172;0;No;1:36.867
+Las Vegas;30;Liam Lawson;RB Honda RBPT;1:34.087;1:34.257;;17;16;15;50;+91.005;0;No;1:36.980
+Las Vegas;11;Sergio Perez;Red Bull Racing Honda RBPT;1:34.155;;;10;10;16;50;+63.114;1;No;1:36.326
+Las Vegas;14;Fernando Alonso;Aston Martin Aramco Mercedes;1:34.258;;;9;11;17;50;+69.195;0;No;1:36.553
+Las Vegas;23;Alexander Albon;Williams Mercedes;1:34.425;;;10;NC;18;25;DNF;0;No;1:38.008
 Las Vegas;77;Valtteri Bottas;Kick Sauber Ferrari;1:34.430;;;10;18;19;49;+1 lap;0;No;1:36.601
-Las Vegas;18;Lance Stroll;Aston Martin Aramco Mercedes;1:34.484;;;3;15;18;50;+84.102;0;No;1:37.179
+Las Vegas;18;Lance Stroll;Aston Martin Aramco Mercedes;1:34.484;;;3;15;20;50;+84.102;0;No;1:37.179
